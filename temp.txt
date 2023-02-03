@@ -1,0 +1,73 @@
+
+
+
+ <div class="project-info">
+                        <h1>Python</h1>
+                        <h2>Binary Search Tree</h2>
+                        <p>For this project I was given a short story text file that I had to 
+                            count how many of each letters and numbers that appeared. Then I 
+                            had to display them in order, preorder and in post order. This 
+                            project helped me learn and understand these algorithms. 
+                        </p>
+                        <div class ="video-container">
+                            <iframe class = "videos" src="https://www.youtube.com/embed/kRCjsUE_Ve4"></iframe>
+                        </div>
+                    </div>
+                    <!-- End Project Writing/Info -->
+
+                     <!-- Project Writing/Info -->
+                    <!-- Project Image -->
+                    <div class="project-img">
+                        <img class = "python-image" >
+                    </div>
+                    <!-- End Image -->
+                     <div class="project-info">
+                        <h1>Arduino</h1>
+                        <h2>Sprinkler Zone Controller</h2>
+                        <p>For this project I designed an Arduino program to be able to turn on
+                            and off a valve to control a new sprinkler zone for my yard. I first
+                            designed the microcontroller with a screen and buttons. I then had 
+                            it display time, set sprinkler start time, set a way to turn on and 
+                            off sprinkler by pressing a button, and a way to get to the home 
+                            screen from wherever you are at in the program. 
+                        </p>
+                        <div class ="video-container">
+                            <iframe class = "videos" src="https://www.youtube.com/embed/6x2GZDISP14"></iframe>
+                        </div>
+
+                    </div>
+                    <!-- End Project Writing/Info -->
+                    <!-- Project Image -->
+                    <div class="project-img">
+                        <img >
+                    </div>
+                    <!-- End Image -->
+                     <!-- Project Writing/Info -->
+                     <div class="project-info">
+                        <h1>Java</h1>
+                        <h2>Knights Quest Game</h2>
+                        <p>For this project I worked on a game with two others writing it in Java. 
+                            Its about a knight traveling home when he comes across some orcs. 
+                        </p>
+                        <div class ="video-container">
+                            <iframe class = "videos" src="https://www.youtube.com/embed/9zF5y2lefP4"></iframe>
+                        </div>
+                    </div>
+                    <!-- End Project Writing/Info -->
+                    <!-- Project Image -->
+                    <div class="project-img">
+                        <img >
+                    </div>
+                    <!-- End Image -->
+                     <!-- Project Writing/Info -->
+                     <div class="project-info">
+                        <h1>C++</h1>
+                        <h2>Word Search</h2>
+                        <p>For this project I took a list of words from the dictionary, picked 
+                            a random one and searched all the rest of the words finding all 
+                            that are comprised of the picked word. 
+                        </p>
+                        <div class ="video-container">
+                            <iframe class = "videos" src="https://www.youtube.com/embed/SrJn6TH9TyE"></iframe>
+                        </div>
+                    </div>

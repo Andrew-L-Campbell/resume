@@ -273,6 +273,11 @@ p{
 /*End Services Secction*/
 
 /* Projects Section */
+.git-hub-links{/*gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg*/
+    display: flex;
+    font-size: 20px;
+    
+}
 #projects .projects{
     flex-direction: column;
     max-width: 1200px;
