@@ -31,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Replace these image URLs with your own
     const imageUrls = [
+        './img/ProjectPart0.png',
+        './img/ProjectPart0.1.png',
         './img/ProjectPart1.png',
         './img/ProjectPart2.png',
         './img/ProjectPart3.png',
