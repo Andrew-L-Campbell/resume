@@ -273,9 +273,10 @@ p{
 /*End Services Secction*/
 
 /* Projects Section */
-.git-hub-links{/*gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg*/
+.git-hub-links h4{
     display: flex;
     font-size: 20px;
+    color: blue;
     
 }
 #projects .projects{
@@ -556,23 +557,7 @@ p{
     #projects .project-item{
         flex-direction: grid;
     }
-    /* project 
 
-    #projects .project-item:nth-child(even){
-        flex-direction: row-reverse;
-    }
-    #projects .project-item{
-        height: 1500px;
-        margin: 0;
-        width: 100%;
-        border-radius: 0;
-        display: inline-flex;
-    }
-    #projects .all-projects .project-info{
-        height: 100%;
-    }  
- 
-     end project section */
      /* about */
         #about .about{
             flex-direction: row;
